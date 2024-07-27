@@ -1,0 +1,16 @@
+D:\git\lrm\Elite\bin\Debug\net7.0-windows\Elite.exe
+D:\git\lrm\Elite\bin\Debug\net7.0-windows\Elite.deps.json
+D:\git\lrm\Elite\bin\Debug\net7.0-windows\Elite.runtimeconfig.json
+D:\git\lrm\Elite\bin\Debug\net7.0-windows\Elite.dll
+D:\git\lrm\Elite\bin\Debug\net7.0-windows\Elite.pdb
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.MainForm.resources
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.csproj.GenerateResource.cache
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.AssemblyInfoInputs.cache
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.AssemblyInfo.cs
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.csproj.CoreCompileInputs.cache
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.dll
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\refint\Elite.dll
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.pdb
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\Elite.genruntimeconfig.cache
+D:\git\lrm\Elite\obj\Debug\net7.0-windows\ref\Elite.dll
